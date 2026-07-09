@@ -80,5 +80,14 @@ python gru_pred1.py
 
 Projenin tamamında LSTM, GRU ve Transformer modelleri aynı ETTh1 veri seti ve ortak veri ön işleme yaklaşımı kullanılarak karşılaştırılmıştır. Bu depo yalnızca geliştirdiğim GRU bileşenine odaklanmaktadır.
 
+
+## Proje Raporu
+
+LSTM, GRU ve Transformer mimarilerinin ETTh1 veri seti üzerindeki karşılaştırmasını, deneyleri ve elde edilen sonuçları içeren nihai proje raporuna aşağıdaki bağlantıdan ulaşabilirsiniz.
+
+[Proje raporunu görüntüle](gru-zaman-serisi-proje-raporu.pdf)
+
+Bu depo, akademik ekip projesinde geliştirdiğim GRU bileşenine odaklanmaktadır. Proje raporunun hazırlanması, ekip çalışmalarının bütünleştirilmesi ve nihai düzenlemesi tarafımdan gerçekleştirilmiştir.
+
 **Hazırlayan:** Büşra Demirkıran  
 **Bölüm:** Bartın Üniversitesi Bilgisayar Mühendisliği
