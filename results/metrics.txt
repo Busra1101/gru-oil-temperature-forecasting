@@ -1,0 +1,6 @@
+GRU short-term forecast results
+MSE: 0.007553
+RMSE: 0.086907
+MAE: 0.064953
+R²: 0.9524
+Parameter count: 39041
